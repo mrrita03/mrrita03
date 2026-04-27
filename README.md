@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá, eu sou a Maria Rita! 👋
 
-<!--
-**mrrita03/mrrita03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Sobre mim
+Estudante de **Análise e Desenvolvimento de Sistemas** no Senac SP. Apaixonada por tecnologia e focada em me tornar uma desenvolvedora/analista.
 
-Here are some ideas to get you started:
+- 🌱 **Estou aprendendo:** HTML5, CSS3, SQL/MySQL/NoSQL, Lógica de Programação, Java, JavaScript.
+- 💬 **Pergunte-me sobre:** Capoeira, atendimento comercial ou tecnologia.
+- 📫 **Como me encontrar:** Pelo meu [LinkedIn]([(https://www.linkedin.com/in/mariaritadec%C3%A1ssia/)]).
+- 🌎 **Idiomas:** Inglês Básico (Estudando no CNA)
+- 😄 **Pronomes:** Ela/Dela.
+- ⚡ **Curiosidade:** Além de codar, sou corda ponta amarela e laranja na Capoeira, amo série e filme policial e ação! 🤸‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
